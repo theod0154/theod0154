@@ -92,25 +92,10 @@ Penetration Tester
 
 `Nmap` · `Burp Suite` · `Metasploit` · `Netcat` · `SQLMap` · `Wireshark` · `Nessus`
 
-### 🌐 Network / Infrastructure
-
-`FortiGate` · `Linux` · `Windows Server` · `VMware` · `Docker`
-
-### 💻 Development / Automation
-
-`Python` · `Bash` · `Git` · `GitHub`
 
 
 
 
-
-# 🏆 Certifications & Goals
-
-### Completed
-
-```text
-Currently building toward professional offensive-security certifications.
-```
 
 ### 🎯 Roadmap
 
@@ -138,27 +123,19 @@ Currently building toward professional offensive-security certifications.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=theod0154&show_icons=true&theme=dark&hide_border=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theod0154&layout=compact&theme=dark&hide_border=true">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=theod0154&show_icons=true&theme=dark&hide_border=true" />
 </p>
-
----
-
-# 📈 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theod0154&theme=github-compact&hide_border=true">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theod0154&theme=dark&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theod0154&theme=github-compact&hide_border=true&area=true" />
+</p>
 
 # 🔗 Profiles
 
