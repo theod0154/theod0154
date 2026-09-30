@@ -2,6 +2,8 @@
 
 ### 🛡️ Cybersecurity Engineer | Aspiring Penetration Tester
 
+<div align="center">
+
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │  theod@kali:~$ whoami                                   │
@@ -13,6 +15,7 @@
 │  > Learn. Hack. Build. Improve.                         │
 └─────────────────────────────────────────────────────────┘
 ```
+</div>
 
 Cybersecurity graduate currently working as a Cybersecurity Engineer, with a strong interest in **Penetration Testing and Red Teaming**.
 
@@ -52,7 +55,7 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 **Hack The Box — Penetration Tester Path**
 
 ```text
-HTB Penetration Tester
+Penetration Tester
         │
         ├── Information Gathering
         ├── Footprinting
@@ -160,17 +163,15 @@ Currently building toward professional offensive-security certifications.
 # 🔗 Profiles
 
 <p align="center">
-
-<a href="https://app.hackthebox.com/users/2556205">
-<img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
-</a>
-
-<a href="https://tryhackme.com/p/THEOD">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
-</a>
-
 <a href="https://github.com/theod0154">
 <img src="https://img.shields.io/badge/GitHub-theod0154-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+<p align="center">
+
+<a href="mailto:o.dulguun0154@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-o.dulguun0154%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
