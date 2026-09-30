@@ -16,10 +16,10 @@ Cybersecurity graduate currently working as a **System Engineer**, with a strong
 
    
 
-<a href="https://tryhackme.com/p/THEOD">
-<img src="https://tryhackme-badges.s3.amazonaws.com/THEOD.png" alt="TryHackMe Profile">
-</a>
-
+<p align="center">
+  <a href="https://tryhackme.com/p/THEOD">
+    <img src="https://img.shields.io/badge/TryHackMe-THEOD-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
 </p>
 
 ---
