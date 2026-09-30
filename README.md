@@ -21,13 +21,9 @@ Currently working as a **System Engineer** while building practical offensive-se
 
 ---
 
-## 🏴‍☠️ TryHackMe
+## TryHackMe
 
-<a href="https://tryhackme.com/p/THEOD">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/THEOD.png" alt="TryHackMe" />
-</a>
-
-[View my TryHackMe profile](https://tryhackme.com/p/THEOD)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/THEOD.png)](https://tryhackme.com/p/THEOD)
 
 ---
 
