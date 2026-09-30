@@ -16,27 +16,6 @@
 
 Cybersecurity graduate currently working as a Cybersecurity Engineer, with a strong interest in **Penetration Testing and Red Teaming**.
 
-
-
-# ⚔️ Current Mission
-
-```text
-                    CYBERSECURITY
-                         │
-             ┌───────────┴───────────┐
-             ▼                       ▼
-       DEFENSIVE SIDE          OFFENSIVE SIDE
-             │                       │
-      Infrastructure          Penetration Testing
-      Network Security        Web Security
-      ISO 27001               Active Directory
-      Monitoring              Privilege Escalation
-             │                       │
-             └───────────┬───────────┘
-                         ▼
-                    RED TEAMING
-```
-
 # 🏴‍☠️ Cybersecurity Profiles
 
 <p align="center">
