@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Theod
 
-<!--
-**theod0154/theod0154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Engineer | Penetration Testing | Red Team
 
-Here are some ideas to get you started:
+I'm a cybersecurity graduate currently working as a System Engineer,
+focused on developing my skills in penetration testing and offensive security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Cybersecurity
+
+- Penetration Testing
+- Web Application Security
+- Network Security
+- Active Directory
+- Linux & Windows
+- Vulnerability Assessment
+- Security Operations
+
+## 🎯 Currently Learning
+
+- Hack The Box CPTS
+- Active Directory
+- Web Pentesting
+- Red Team Operations
+- OSCP
+
+## 🧰 Tools
+
+`Kali Linux` · `Nmap` · `Burp Suite` · `Metasploit` · `Wireshark` · `Nessus`
+
+## 📚 Platforms
+
+- Hack The Box
+- TryHackMe
+- PortSwigger Web Security Academy
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theod0154&show_icons=true&theme=dark)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=theod0154&theme=dark)
+
+---
+
+### 📫 Connect with me
+
+[TryHackMe](https://tryhackme.com/p/THEOD)
