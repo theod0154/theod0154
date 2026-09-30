@@ -2,7 +2,7 @@
 
 ### Cybersecurity Engineer | Penetration Testing | Red Team
 
-I'm a cybersecurity graduate currently working as a System Engineer,
+I'm a cybersecurity graduate currently working as a Cyber Security Engineer,
 focused on developing my skills in penetration testing and offensive security.
 
 ---
@@ -46,5 +46,6 @@ focused on developing my skills in penetration testing and offensive security.
 ---
 
 ### 📫 Connect with me
+o.dulguun0154@gmail.com
 
-[TryHackMe](https://tryhackme.com/p/THEOD)
+
