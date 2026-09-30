@@ -8,15 +8,7 @@ Currently working as a **System Engineer** while building practical offensive-se
 
 ---
 
-## TryHackMe
-
-## TryHackMe
-
-<p align="center">
-  <a href="https://tryhackme.com/p/THEOD">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/THEOD.png" alt="TryHackMe Badge">
-  </a>
-</p>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/THEOD.png)](https://tryhackme.com/p/THEOD)
 ## HackTheBox
 
 [![HTB Badge](https://www.htbbadge.tech/api/badge?user=YOUR_HTB_ID)](https://profile.hackthebox.com/profile/019f3b8c-be32-724f-84ff-2fb669fa0ac1)
