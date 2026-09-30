@@ -25,15 +25,15 @@ focused on developing my skills in penetration testing and offensive security.
 - Red Team Operations
 - OSCP
 
-## 🧰 Tools
+## 🏴‍☠️ TryHackMe
 
-`Kali Linux` · `Nmap` · `Burp Suite` · `Metasploit` · `Wireshark` · `Nessus`
+<a href="https://tryhackme.com/p/THEOD">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/THEOD.png" alt="TryHackMe">
+</a>
 
-## 📚 Platforms
+## 🟩 Hack The Box
 
-- Hack The Box
-- TryHackMe
-- PortSwigger Web Security Academy
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/)
 
 ## 📊 GitHub Stats
 
