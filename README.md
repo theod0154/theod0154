@@ -71,9 +71,6 @@ Penetration Tester
                  │
                  ▼
                 CPTS
-                 │
-                 ▼
-                OSCP
 ```
 
 ---
@@ -100,25 +97,22 @@ Penetration Tester
 ### 🎯 Roadmap
 
 ```text
-              Cybersecurity Graduate
-                       │
-                       ▼
                  System Engineer
                        │
                        ▼
-              HTB Penetration Tester
+              Cybersecurity Engineer
                        │
                        ▼
-                      CPTS
-                       │
-                       ▼
-                      OSCP
+                     CPTS
                        │
                        ▼
                 Penetration Tester
                        │
                        ▼
-                  Red Teaming
+                      OSCP
+                       │
+                       ▼
+                   Red Teaming
 ```
 
 ---
