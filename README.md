@@ -129,9 +129,7 @@ Penetration Tester
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theod0154&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theod0154&theme=github-compact&hide_border=true&area=true" width="100%" />
-</p>
+
 
 # 🔗 Profiles
 
