@@ -81,16 +81,23 @@ Penetration Tester
 # 🧰 Tools & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,github,docker,windows,vmware">
-
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,github,wireshark&theme=dark" />
 </p>
 
 ### 🔴 Offensive Security
 
-`Nmap` · `Burp Suite` · `Metasploit` · `Netcat` · `SQLMap` · `Wireshark` · `Nessus`
+`Nmap` · `Burp Suite` · `Metasploit` · `Netcat` · `SQLMap` · `Wireshark` · `Nessus` · `LinPEAS` · `WinPEAS` · `BloodHound` · `ffuf`
 
+### 🛠️ Tools & Frameworks
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/BloodHound-EB5757?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinPEAS-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinPEAS-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
 
 
