@@ -26,7 +26,7 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 <p align="center">
 
 <a href="https://app.hackthebox.com/users/2556205">
-<img src="https://www.htbbadge.tech/api/badge?user=2556205" alt="Hack The Box Profile">
+<img src="https://www.htbbadge.tech/api/badge?user=2556205" alt="Hack The Box Profile" width="500">
 </a>
 
 
