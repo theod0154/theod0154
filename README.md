@@ -118,12 +118,20 @@ Penetration Tester
 
 ---
 
-## 📊 GitHub Activity
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theod0154&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theod0154&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theod0154&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theod0154&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theod0154&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
 
 # 🔗 Profiles
 
