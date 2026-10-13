@@ -26,7 +26,7 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 <p align="center">
 
 <a href="https://app.hackthebox.com/users/2556205">
-<img src="https://www.htbbadge.tech/api/badge?user=2556205" alt="Hack The Box Profile" width="500">
+<img src="https://www.htbbadge.tech/api/badge?user=2556205" alt="Hack The Box Profile" width="600">
 </a>
 
 
@@ -34,7 +34,7 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 
 <p align="center">
   <a href="https://tryhackme.com/p/THEOD">
-    <img src="https://raw.githubusercontent.com/theod0154/theod0154/main/assets/thm_badge.svg" alt="TryHackMe Badge"width="500">
+    <img src="https://raw.githubusercontent.com/theod0154/theod0154/main/assets/thm_badge.svg" alt="TryHackMe Badge"width="600">
   </a>
 </p>
 
