@@ -27,11 +27,10 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 <img src="https://www.htbbadge.tech/api/badge?user=2556205" alt="Hack The Box Profile">
 </a>
 
-<br><br>
 <p align="center">
-<script src="https://tryhackme.com/badge/t/ffab6910a7fa758008d5a3ab51a9aa984f17360a5abc78ca428ed0094ae110a7924379722b2dd5ad2189dc0c319286c8?theme=dark"></script>
-</a>
-
+  <a href="https://tryhackme.com/p/THEOD">
+    <img src="https://tryhackme.com/badge/t/ffab6910a7fa758008d5a3ab51a9aa984f17360a5abc78ca428ed0094ae110a7924379722b2dd5ad2189dc0c319286c8?theme=dark" alt="TryHackMe Badge" />
+  </a>
 </p>
 
 ---
