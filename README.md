@@ -1,4 +1,4 @@
-# 👋 Hi, I'm theod
+# Hi, I'm theod
 
 ### 🛡️ Cybersecurity Engineer | Aspiring Penetration Tester
 
@@ -19,7 +19,7 @@
 
 Cybersecurity graduate currently working as a Cybersecurity Engineer, with a strong interest in **Penetration Testing and Red Teaming**.
 
-# 🏴‍☠️ Cybersecurity Profiles
+# Cybersecurity Profiles
 
 <h3 align="center">Hackthebox</h3>
 
@@ -38,7 +38,7 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
   </a>
 </p>
 
-# 🎯 Currently Learning
+# Currently Learning
 
 | Area                       | Focus                                        |
 | ---------------------------| -------------------------------------------- |
@@ -51,7 +51,7 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 | 🔐 Infrastructure Security | Firewalls, Servers, Virtualization           |
 | 🛡️ Security Monitoring     | SIEM, Logs, Detection & Response             |
 
-### 📚 Current Path
+### Current Path
 
 **Hack The Box — Penetration Tester Path**
 
@@ -79,7 +79,7 @@ Penetration Tester
 
 
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,github,python&theme=dark" height="48" />
@@ -95,7 +95,7 @@ Penetration Tester
 
 
 
-### 🎯 Roadmap
+### Roadmap
 
 ```text
                  System Engineer
