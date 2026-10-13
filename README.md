@@ -29,9 +29,13 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 
 ## TryHackMe
 
-[![TryHackMe](https://raw.githubusercontent.com/theod0154/theod0154/main/assets/thm_badge.svg)](https://tryhackme.com/p/THEOD)
+## TryHackMe
 
----
+<p align="center">
+  <a href="https://tryhackme.com/p/THEOD">
+    <img src="https://raw.githubusercontent.com/theod0154/theod0154/main/assets/thm_badge.svg" alt="TryHackMe Badge">
+  </a>
+</p>
 
 # 🎯 Currently Learning
 
