@@ -21,7 +21,7 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 
 # 🏴‍☠️ Cybersecurity Profiles
 
-### Hackthebox
+<h3 align="center">Hackthebox</h3>
 
 <p align="center">
 
@@ -30,11 +30,11 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 </a>
 
 
-### TryHackMe
+<h3 align="center">TryHackMe</h3>
 
 <p align="center">
   <a href="https://tryhackme.com/p/THEOD">
-    <img src="https://raw.githubusercontent.com/theod0154/theod0154/main/assets/thm_badge.svg" alt="TryHackMe Badge">
+    <img src="https://raw.githubusercontent.com/theod0154/theod0154/main/assets/thm_badge.svg" alt="TryHackMe Badge"width="500">
   </a>
 </p>
 
