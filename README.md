@@ -78,26 +78,33 @@ Penetration Tester
 
 
 
-# 🧰 Tools & Technologies
+
+### 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,github,wireshark&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,github&theme=dark" height="48" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="48" alt="Bash" />
 </p>
 
 ### 🔴 Offensive Security
 
-`Nmap` · `Burp Suite` · `Metasploit` · `Netcat` · `SQLMap` · `Wireshark` · `Nessus` · `LinPEAS` · `WinPEAS` · `BloodHound` · `ffuf`
-
-### 🛠️ Tools & Frameworks
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nmap/4EAA25" height="42" alt="Nmap" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="42" alt="Burp Suite" />
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="42" alt="Metasploit" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="42" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="42" alt="Kali Linux" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/BloodHound-EB5757?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinPEAS-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinPEAS-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="42" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="42" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/windows/0078D4" height="42" alt="Windows" />
 </p>
+
+**Other tools:** `Netcat` · `SQLMap` · `Nessus` · `LinPEAS` · `WinPEAS` · `BloodHound` · `ffuf`
 
 
 
