@@ -86,7 +86,9 @@ Penetration Tester
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" />
   <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit" />
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" />
-  <img src="https://cdn.simpleicons.org/nmap/4EAA25" height="42" alt="Nmap" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png"
+     height="42"
+     alt="Nmap" />
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="42" alt="Kali Linux" />
   
 </p>
