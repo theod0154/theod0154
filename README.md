@@ -79,33 +79,23 @@ Penetration Tester
 
 
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,github&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,github,python&theme=dark" height="48" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" />
   <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="48" alt="Bash" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" />
 </p>
-
-### 🔴 Offensive Security
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/nmap/4EAA25" height="42" alt="Nmap" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="42" alt="Burp Suite" />
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="42" alt="Metasploit" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="42" alt="Wireshark" />
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="42" alt="Kali Linux" />
-</p>
-
-<p align="center">
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="42" alt="Bash" />
   <img src="https://cdn.simpleicons.org/github/FFFFFF" height="42" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="42" alt="Linux" />
   <img src="https://cdn.simpleicons.org/windows/0078D4" height="42" alt="Windows" />
 </p>
-
-**Other tools:** `Netcat` · `SQLMap` · `Nessus` · `LinPEAS` · `WinPEAS` · `BloodHound` · `ffuf`
-
 
 
 
