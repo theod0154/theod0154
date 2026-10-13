@@ -29,8 +29,7 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 
 <br><br>
 <p align="center">
-<a href="https://tryhackme.com/p/THEOD">
-<img src="https://img.shields.io/badge/TryHackMe-THEOD-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/t/ffab6910a7fa758008d5a3ab51a9aa984f17360a5abc78ca428ed0094ae110a7924379722b2dd5ad2189dc0c319286c8?theme=dark"></script>
 </a>
 
 </p>
