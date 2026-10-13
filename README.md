@@ -21,15 +21,16 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 
 # 🏴‍☠️ Cybersecurity Profiles
 
+### Hackthebox
+
 <p align="center">
 
 <a href="https://app.hackthebox.com/users/2556205">
 <img src="https://www.htbbadge.tech/api/badge?user=2556205" alt="Hack The Box Profile">
 </a>
 
-## TryHackMe
 
-## TryHackMe
+### TryHackMe
 
 <p align="center">
   <a href="https://tryhackme.com/p/THEOD">
