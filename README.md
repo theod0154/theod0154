@@ -12,7 +12,7 @@
 │  Penetration Testing enthusiast                         │
 │  Red Teaming learner                                    │
 │                                                         │
-│  > Learn. Hack. Build. Improve.                         │
+│  > Learn, build, improve.                         │
 └─────────────────────────────────────────────────────────┘
 ```
 </div>
@@ -147,6 +147,6 @@ Penetration Tester
 
 <p align="center">
 
-### ⚡ Learn. Hack. Build. Improve.
+### Learn, build, improve.
 
 </p>
