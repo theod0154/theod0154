@@ -1,6 +1,6 @@
 # Hi, I'm theod
 
-### 🛡️ Cybersecurity Engineer | Aspiring Penetration Tester
+### Cybersecurity Engineer | Aspiring Penetration Tester
 
 <div align="center">
 
@@ -40,16 +40,16 @@ Cybersecurity graduate currently working as a Cybersecurity Engineer, with a str
 
 # Currently Learning
 
-| Area                       | Focus                                        |
-| ---------------------------| -------------------------------------------- |
-| 🔴 Penetration Testing     | Recon → Enumeration → Exploitation → PrivEsc |
-| 🌐 Web Security            | OWASP Top 10, Burp Suite, Web Enumeration    |
-| 🪟 Active Directory        | Enumeration, Attacks, Privilege Escalation   |
-| 🐧 Linux                   | Enumeration & Privilege Escalation           |
-| 🪟 Windows                 | Windows PrivEsc & AD                         |
-| 🌐 Network Security        | Services, Protocols, Network Attacks         |
-| 🔐 Infrastructure Security | Firewalls, Servers, Virtualization           |
-| 🛡️ Security Monitoring     | SIEM, Logs, Detection & Response             |
+| Area                    | Focus                                        |
+| ------------------------| -------------------------------------------- |
+| Penetration Testing     | Recon → Enumeration → Exploitation → PrivEsc |
+| Web Security            | OWASP Top 10, Burp Suite, Web Enumeration    |
+| Active Directory        | Enumeration, Attacks, Privilege Escalation   |
+| Linux                   | Enumeration & Privilege Escalation           |
+| Windows                 | Windows PrivEsc & AD                         |
+| Network Security        | Services, Protocols, Network Attacks         |
+| Infrastructure Security | Firewalls, Servers, Virtualization           |
+| Security Monitoring     | SIEM, Logs, Detection & Response             |
 
 ### Current Path
 
@@ -118,8 +118,6 @@ Penetration Tester
 
 ---
 
-### 📊 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theod0154&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theod0154&theme=github-dark-blue&hide_border=true" height="165" />
@@ -131,7 +129,7 @@ Penetration Tester
 
 
 
-# 🔗 Profiles
+# Profiles
 
 <p align="center">
 <a href="https://github.com/theod0154">
